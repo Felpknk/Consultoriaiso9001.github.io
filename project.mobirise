@@ -1,0 +1,1606 @@
+{
+  "settings": {
+    "name": "Site-04-28_0244-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#4e4e4e"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.7.2",
+    "uniqCompNum": 50,
+    "versionPublish": "4.7.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">&nbsp; &nbsp; Quem somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Serviços &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consultoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Auditoria</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br>Gerenciamento de projetos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contato formulario</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Artigos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">A distãncia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Materiais Educativos<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Lern &nbsp;Seis Sigma &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Contato</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-305x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoria</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Consultoria e<br>auditoria",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; Quem &nbsp;somos&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header3-j\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nossa missão</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "48px",
+              "color": "#a8d0ea"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Quem somos",
+          "text": "Atuamos no mercado de Consultoria, Treinamento e Auditoria em Sistema de Gestão Empresarial e Desenvolvimento Humano, Coaching e Treinamentos Comportamentais.\n<br>\n<br>Nosso principal objetivo é oferecer soluções completas às organizações que buscam melhorar sua eficiência produtiva e eficácia nos resultados.\n<br>\n<br>Acreditamos que um time de profissionais qualificados e especializados nos diversos setores e segmentos consegue, junto aos nossos Clientes, criar parcerias de sucesso. Com responsabilidade, integridade e sentimento de pertence conseguimos alcançar nossos objetivos juntos!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content1-6\" data-toolbar=\"-mbrBtnMove\">Nossos valores</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2",
+          "_styles": {
+            "I": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "48px",
+              "color": "#a8d0ea"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Nossa misão e Valores<br>",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "_styles": {
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px",
+              "color": "#a8d0ea"
+            }
+          }
+        },
+        {
+          "text": "Ser uma organização sustentável reconhecida na sociedade pela inovação, excelência, agilidade e integridade.",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-i",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "text": "<p><br></p><p>\n</p><p>\n</p><p>&nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;Ética\n</p><p>&nbsp; &nbsp; Foco\n</p><p>&nbsp; &nbsp; Cooperação\n</p><p>&nbsp; &nbsp; Competência\n</p><p>&nbsp; &nbsp; Transparência\n</p><p>&nbsp; &nbsp; Comprometimento\n</p><p>&nbsp; &nbsp; Trabalho em equipe\n</p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content4-k\" data-toolbar=\"-mbrBtnMove\">Diretrizes</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content4-k\" data-toolbar=\"-mbrBtnMove\">Código de ÉTICA</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-7"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "26",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-810x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Nossa Política de Qualidade",
+          "text": "<p>“Prover soluções sustentáveis em consultoria e treinamento, satisfazendo e agregando valor para nossos clientes e colaboradores e buscando melhoria contínua de nossos processos e serviços.”</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content5-n\" data-toolbar=\"-mbrBtnMove\">Mais</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px",
+              "color": "#a8d0ea"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Diretrizes",
+          "caption1": "<br>    Formação de parceiros de negócio em longo prazo.\n<br>    Nossos parceiros são clientes, consultores e empresas associadas.\n<br>    Um dos principais meios de satisfazer o cliente é estreitar o relacionamento e parceria, desenvolvendo produtos, capacitando nossa equipe e empresas associadas.\n<br>    Estimulo que sirva de conduta ética e de desenvolvimento sustentável.&nbsp;<br>",
+          "title2": "Código de Ética",
+          "caption2": "<br>    Transparências com clientes, parceiros e associados;\n<br>    Honestidade e justiça em relações funcionais e pessoais;\n<br>    Cooperação e trabalho em equipe;\n<br>    Confidencialidade com todas as informações;\n<br>    Independência nos processos de avaliação e auditoria;\n<br>    Atenção as legislações aplicáveis ao negócio.\n<br>.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-k",
+          "_styles": {
+            "H4": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#a8d0ea"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Estrutura de trabalho",
+          "caption": "<p><br></p><p><span style=\"font-size: 1.25rem;\">Respeito para com a estrutura da empresa em que desenvolvemos nossos projetos é primordial. A partir disso, apresentamos métodos e procedimentos de trabalho que se adequam à realidade da organização, atingindo metas e objetivos planejados.</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#5bc0de",
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "<p><br></p><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp;<br><p><i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>Atualização ISO 9001:2015: qual é o prazo para se adequar?</b></i></p><div>\n</div><div><br></div><p></p>",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page3.html#header2-19\" data-toolbar=\"-mbrBtnMove\">Leia</a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "<b><i>Sistema de Gestão da Qualidade ISO 9001:2015: O que é e como funciona?\n</i></b><div>\n</div><div><br></div>",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html#header2-x\" data-toolbar=\"-mbrBtnMove\">Leia</a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1919x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "<b><br></b><br><br><br><br><br><br><br><br><br><br><br><i><b>Áreas de atuação de um consultor de gestão\n</b></i><div>\n</div><div><br></div>",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Leia</a>",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-8",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "O que as indústrias precisam saber sobre a ISO 9001:2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#msg-box2-q\" data-toolbar=\"-mbrBtnMove\">Click para ler</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-b",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Usuarios&nbsp;",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-d",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Entre em contato<br>Seg - Sexta 07 -18hrs",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "truqueloke@gmail.com",
+            "alerts": {
+              "success": "Obrigado assim que possivel entraremos em contato."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Siga-nós nas redes Sociais",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-e",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-g"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-265x111.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-3"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Iso 9001:2015",
+        "order": 4,
+        "meta_descr": "Descrição isso:2015"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">&nbsp; &nbsp; Quem somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Serviços &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consultoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Auditoria</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br>Gerenciamento de projetos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contato formulario</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Artigos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">A distãncia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Materiais Educativos<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Lern &nbsp;Seis Sigma &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Contato</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-305x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoria</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-o"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>O que as indústrias precisam saber sobre a ISO 9001:2015</b><br><br>Quando o assunto é qualidade nas indústrias, não tem como não pensar logo na ISO 9001. Isso porque a certificação trata de um conjunto de normas que visam orientar a implementação e a manutenção de um sistema de gestão da qualidade (SGQ). Criada em 1987, ela já sofreu diversas alterações ao longo do tempo para que os processos internos e as decisões administrativas ficassem mais ágeis e menos burocráticas. Contudo, a versão ISO 9001:2015, sua última atualização, trouxe mudanças estruturais na forma de encarar um sistema de gestão, indo além da elaboração de documentos e tratando, então, de uma mudança de postura. Para você ficar por dentro das alterações, listamos as cinco mais significativas. Confira!<br><br>1. <b>Criação do Anexo SL (estrutura de alto nível)</b><br><br>Na versão anterior, a ISO 9001 não tinha normas com um padrão estrutural para todos os sistemas. Isso quer dizer que mesmo se houvesse comitês de sistemas de gestão diferentes fazendo parte da mesma empresa, cada um deles determinava quais requisitos faziam parte do seu sistema e a maneira que eram abordados, não contemplando o todo. Como consequência, essa falta de estrutura tornou-se um problema ao longo do tempo, pois, além de duplicar informações, estava ocasionando equívocos e perda de tempo.\n<div>\n</div><div>Sendo assim, a ISO criou o Anexo SL, também conhecido como estrutura de alto nível, visando ganhar mais agilidade nos processos. Este documento estabelece um padrão de requisitos fundamentais para os sistemas de gestão corrigirem as falhas nos processos e integrarem as informações. Desse modo, é possível poupar tempo e reduzir as inconsistências, dando mais segurança às tomadas de decisões.</div><br><div>2. <b>Maior participação das lideranças</b></div><br><div>Até a ISO 9001:2008, o principal responsável pelo sistema de gestão da qualidade era o representante da direção (RD). Agora, essa função é descentralizada e fica a cargo de todas as lideranças da empresa. O intuito é disseminar a cultura de gestão da qualidade para toda a indústria.</div><br><div>3. <b>Gestão de risco</b></div><br><div>Já presente na versão 2008 em forma de ações preventivas, a gestão de risco ganhou força na versão 2015. Agora com mais aplicabilidade no planejamento estratégico, ela visa aprimorar toda a gestão da indústria, tanto para os impactos negativos quanto para os positivos. Para elaborar uma gestão de riscos eficiente é necessário:\n</div><div>\n</div><div>&nbsp; &nbsp; Determinar os riscos existentes na empresa, de acordo com o contexto da organização e independentemente de serem relacionados às estratégias de negócios ou processos produtivos;\n</div><div>&nbsp; &nbsp; Caracterizar e classificar esses riscos;\n</div><div>&nbsp; &nbsp; Criar planos de mitigação e contingência para cada um desses riscos;\n</div><div>&nbsp; &nbsp; Controlar as possíveis ocorrências atreladas a eles.\n</div><div>\n</div><div>Porém, é importante ficar atento! Apesar de a norma especificar que a indústria deve seguir as orientações citadas acima, não há nenhuma indicação de métodos formais para gestão de riscos ou um processo de gestão de riscos documentado. Portanto, é sempre bom perguntar ao seu auditor qual o melhor caminho a ser seguido neste caso para garantir a sua certificação.</div><br><div>&nbsp;4.<b> Substituição do termo treinamento por conhecimentoSubstituição do termo treinamento por conhecimento</b></div><br><div>Os treinamentos recorrentes devem continuar com o intuito de garantir a execução eficiente do sistema de gestão da qualidade. No entanto, passam a fazer parte de uma estratégia ainda maior, que é a gestão do conhecimento da indústria. Dessa forma, será possível assegurar a sustentabilidade do negócio em longo prazo, protegendo a organização de perdas de informações e encorajando-a a sempre adquirir mais conhecimento.</div><br><div>5.<b> Inclusão da palavra serviços na norma\n</b></div><div>\n</div><div><br></div><br><div>A ISO 9001 sempre usou a palavra produto para se referir a um produto ou serviço. Porém, muitos empresários que trabalham com a prestação de serviços ficavam na dúvida se poderiam ou não aplicar a ISO 9001 no seu negócio. Agora esse problema está resolvido. Com a última atualização, a norma passou a mencionar produtos e serviços para todos os tipos de saídas — produto tangível, serviços, software e materiais processados.\n</div><div>O que fazer para conquistar a ISO 9001:2015\n</div><div>\n</div><div>O processo de implantação da ISO 9001:2015 precisa compreender etapas importantes para garantir que todos os resultados esperados sejam alcançados. Por isso, elaboramos seis passos rápidos para você saber exatamente o que fazer. Veja!\n</div><div>\n</div><div>&nbsp; &nbsp; </div><br><div>1. Defina o método de implementação adequado para sua empresa: essencial para dimensionar o nível de adequação da gestão da sua indústria em relação aos requisitos da ISO 9001:2015.\n</div><div><br></div><br><div>2. Determine uma equipe de implementação: é fundamental estruturar uma equipe que fique à frente da implementação. O ideal é que ela seja composta pelos líderes, garantindo, assim, o sucesso das ações e o entendimento dos colaboradores sobre a importância do processo.\n</div><div><br></div><br><div>3. &nbsp;Capacite a equipe de implementação e elabore um plano de ação: após montar a equipe, invista em treinamentos para deixá-la preparada para a fase de implementação. Em paralelo, estruture um plano de ação para adequar a organização aos requisitos exigidos pela ISO 9001.\n</div><div><br></div><br><div>4. Implemente os requisitos da norma: nessa fase, os esforços devem estar concentrados na criação do sistema de gestão, visando uma melhoria contínua no seu negócio. Além disso, é nesse momento que devem ser realizados treinamentos com os colaboradores para que eles se familiarizem a essa nova forma de realizar a gestão da qualidade dentro da indústria.\n</div><div><br></div><br><div>5. Execute uma auditoria interna: ao terminar o processo de implementação é aconselhável fazer uma pré-auditoria. Dessa maneira, é possível verificar os prováveis erros do processo, os pontos em que são necessárias algumas mudanças ou, até mesmo, a inclusão de dados complementares. Essa avaliação não é oficial, por isso, qualquer não-conformidade é uma oportunidade para pequenas alterações ou melhorias.\n</div><div><br></div><br><div>6. Contrate a auditoria de certificação: feito tudo isso, é hora de contratar uma certificadora e garantir o seu certificado de qualidade.\n</div><div>\n</div><div><br></div><br><div>Já tenho ISO 9001, como migrar para a nova versão?\n</div><div>\n</div><div>Como as atualizações foram publicadas em 15 de setembro de 2015, a indústria tem o prazo de três anos a partir desta data para implementar os novos requisitos, ou seja, tem até 15 de setembro de 2018 para estar com o novo certificado em mãos. Para fazer essa transição, basta realizar as alterações exigidas e agendar previamente uma auditoria externa.</div><br><div><br></div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Leia</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-q",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-265x111.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "slide1",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">&nbsp; &nbsp; Quem somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Serviços &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consultoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Auditoria</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br>Gerenciamento de projetos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contato formulario</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Artigos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">A distãncia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Materiais Educativos<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Lern &nbsp;Seis Sigma &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Contato</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-305x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoria</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-r"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sistema de Gestão da Qualidade ISO 9001:2015: O que é e como funciona?\n<div>\n</div><div><br></div>",
+          "text": "Entenda o que é um Sistema de Gestão e como o Sistema de Gestão da Qualidade ISO 9001:2015 pode alavancar os resultados da sua empresa\n<br>\n<br>Sistema de gestão da qualidade ISO 9001:2015, um nome bem grande não é mesmo? Pode parecer algo bem complicado de implementar e talvez você pode pensar que não é tão importante, mas te garanto que faz toda diferença! Em momentos competitivos no mercado, como esse que vivemos agora, temos que ter tudo organizado, para ganhar alguma vantagem competitiva, seja aumentando a produtividade, calculando custos e preços de venda corretamente, se posicionando melhor na praça, etc. <br><br><b>Mas o que é Sistema de Gestão? <br></b><br>Sistema é um conjunto de “coisas” que, quando colocadas juntas, buscam um mesmo objetivo. Gestão é administrar de forma completa alguma(s) (ou todas) a(s) área(s) da empresa. Então o sistema de gestão nada mais é do que um conjunto de ferramentas e práticas de trabalho que servem para gerenciar algum setor.\n<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-x",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/JClyn3SJwEo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/JClyn3SJwEo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-y"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;Quais são os princípios do Sistema de Gestão da Qualidade ISO 9001:2015?\n<div>\n</div><div><br></div>",
+          "text": "<b><i>Foco no cliente</i></b>: As organizações dependem de seus clientes e, por isso devem atender suas necessidades atuais e futuras, suas exigências e se esforçar para exceder suas expectativas. <b><i>Liderança</i></b>: Líderes estabelecem unidade de propósito e a direção da organização. Eles devem criar e manter um ambiente interno no qual as pessoas possam estar totalmente envolvidas na conquista dos objetivos da organização. <br><i><b>Engajamento das Pessoas</b></i>: É essencial para a organização que todas as pessoas sejam competentes, capacitadas e engajadas na entrega de valor (atingimento de metas e objetivos da empresa relacionado ao seu trabalho). <br><b><i>Abordagem de Processos</i></b>: Resultados consistentes e previsíveis são alcançados de forma mais eficaz e eficientemente quando as atividades são compreendidas e gerenciadas como processos inter-relacionados que funcionam como um sistema coerente. <br><i><b>Melhoria</b></i>: A melhoria contínua do desempenho global da organização deve ser um objetivo permanente da organização. <br><b><i>Tomada de Decisão baseada em evidências</i></b>: Decisões com base na análise e avaliação de dados são mais propensas a produzirem os resultados desejados. E aquelas baseadas em fatos geram maior precisão e agilidade, além de causar menor retrabalho. <br><i><b>Gestão do Relacionamento</b></i>: Criar e manter relacionamentos duradouros com stakeholders traz uma série de vantagens como: Fortalecimento da marca; Contratos de fornecimento; Aumento no volume dos negócios.\n<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/fxOAT_zC3hk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/fxOAT_zC3hk",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Website Builder",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-10"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Como é dividido o SGQ&nbsp;",
+          "text": "Como já dito aí em cima, o Sistema de Gestão da Qualidade ISO 9001:2015 usa o método PDCA e se divide em 10 itens, sendo os 3 primeiros mais introdutórios: <br><i><b>Escopo:</b></i> que diz qual é o escopo (a finalidade) da norma para uma empresa. Esse item também diz que a norma é genérica e aplicável a qualquer empresa <br><i><b>Referências</b></i>: apenas para citar quais são as referências bibliográficas e versões atuais utilizadas na norma Termos e <br><i><b>Definições</b></i>: esse item diz que os conceitos utilizados no documento, são referentes à norma ISO Os outros 7 itens, são onde a norma começa a valer para que as organizações comecem a, de fato, implementar o SGQ. Com isso, usa-se o PDCA, como vemos na figura abaixo\n<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-11",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sistema-gestao-qualidade-iso9001-img1-1400x318.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-15"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "<i><b>Contexto da Organização</b></i>: Fala do contexto da empresa, seus stakeholders, riscos e oportunidades do negócio e o conhecimento interno e externo da organização. <br><i><b>Liderança:</b></i> Mostra a necessidade do comprometimento da liderança com o SGQ, sua implementação e disseminação para toda a empresa, com foco no cliente e cada pessoa com suas corretas atribuições.<br><b><i> Planejamento</i></b>: Esse item fala de todo o planejamento do SGQ, bem como mudanças e objetivos para alcançar o planejamento. <br><i><b>Suporte:</b></i> Fala de toda a necessidade de suporte financeiro, pessoas, infraestrutura, documentação, etc, necessários para a operação da empresa.<br><i><b> Operação</b></i>: Item que rege toda a parte da operação do processo finalístico da empresa, bem como desenvolvimento de novos produtos/serviços/processos, controle de fornecedores, atendimento ao cliente, entrega, pós venda, etc. <br><b><i>Avaliação deDesempenho:</i></b> Item que compreende toda a parte de avaliar o SGQ, quanto à seu desempenho, com auditorias, satisfação do cliente e análise crítica do SGQ. <br><i><b>Melhoria:</b></i> Item destinado à melhoria contínua do SGQ, que também mostra como agir em caso de não conformidades detectadas.\n<br>\n<br>ISO 9001",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-16",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Quais são as novidades do Sistema de Gestão da Qualidade ISO 9001:2015?\r<div>\r</div><div><br></div>",
+          "text": "A nova versão da ISO 9001 (ISO 9001:2015) traz novidades bem consideráveis no âmbito da liderança, onde agora cada liderança de área terá um papel importante no trabalho, motivando a equipe e disseminando o SGQ na sua área. Além disso, a abordagem por processos e a identificação de riscos internos/externos está presente em todos os itens da norma, de forma a tornar o SGQ mais abrangente em todas as áreas da empresa. Um outro ponto é a importância dada ao conhecimento da organização (interno) e como a empresa busca novas fontes de atualização (conhecimento externo), além da parte documental, que fica mais aberta para que a empresa use aquilo que convém. Por fim, a estrutura da norma, utilizando os 10 itens vem da ideia da ISO utilizar esse mesmo modelo para outras normas, a fim de melhorar a integração entre outros sistemas de gestão\n<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-17",
+          "_styles": {
+            "H1": {
+              "font-size": "30px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;Como iniciar a implementação do SGQ na minha empresa?\n<div>\n</div><div><br></div>",
+          "text": "Para que se comece a implementação de um SGQ na sua empresa, precisa-se do conhecimento do seu negócio (saber seus clientes, stakeholders, influências do mercado, análise externa e interna da sua empresa, outros competidores, etc. Basicamente um plano de negócios e um planejamento estratégico, para que você saiba quem você é e aonde quer chegar). Baseado nisso, vale a pena estudar o processo da empresa (mapear os processos, dividir as áreas, etc), pois com essa estruturação interna é possível iniciar a implementação dos itens da ISO, pois só assim você conseguirá implementar práticas de gestão que irão responder os itens da ISO e criar documentação importante para manter o seu processo registrado e disponível para melhorias. Por fim, para um SGQ rodar corretamente na empresa, precisa muito do envolvimento das pessoas e o comprometimento em utilizar o sistema, bem como fazer atualizações para melhorar.\n<br>\n<br>Leia mais em: https://www.voitto.com.br/blog/artigo/sistema-de-gestao-da-qualidade-iso-9001.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-18",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-265x111.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "slide2",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">&nbsp; &nbsp; Quem somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Serviços &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consultoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Auditoria</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br>Gerenciamento de projetos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contato formulario</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Artigos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">A distãncia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Materiais Educativos<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Lern &nbsp;Seis Sigma &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Contato</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-305x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoria</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-t"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Atualização ISO 9001:2015: qual é o prazo para se adequar? <br><br><br><div>\n</div><div><br></div>",
+          "text": "Atualização ISO 9001:2015: qual é o prazo para se adequar? Veja quais são as principais alterações causadas pela atualização ISO 9001:2015 e qual é o prazo para se adequar.<br><br>\nSe você está lendo esse artigo, provavelmente já sabe o que é o Sistema de Gestão da Qualidade ISO 9001 e busca saber quais são as principais mudanças causadas pela atualização ISO 9001:2015 e qual o prazo máximo para se atualizar, não é mesmo? Como toda padronização e norma de segurança, a ISO 9001 precisa se manter em constante revisão para se manter atual. Como a revisão anterior aconteceu em 2008, é notável que o mercado mudou consideravelmente nesse tempo, com mudanças na cadeia de suprimentos e nas informações disponíveis. Para que se mantenha relevante para o mundo dos negócios, tornou-se necessário uma revisão, que culminou na atualização ISO 9001:2015. Nesse artigo, veremos as principais mudanças dessa nova versão da principal norma de Sistema de Gestão da Qualidade do mundo e até quando as empresas têm para se atualizar.\n<br>\n<br>\n<br><br>\n<br><i><b>Mudança na estrutura\n<br></b></i>\n<br><br>A estrutura foi alterada para se relacionar melhor com outras normas de sistemas de gestão, adotando o Anexo SL, documento que segue mais de perto o ciclo PDCA. Ao invés de oito (na versão ISO 9001:2008), a atualização ISO 9001:2015 tem 10 seções. Na tabela a seguir podemos ver a relação entre as seções da versão 2008 e as da revisão feita em 2015\n<br>\n<br><br><br><b><i>Mudança de terminologia\n</i></b><br>\n<br>Houveram algumas mudanças de terminologia da ISO 9001:2008 para a atualização ISO 9001:2015. A tabela seguinte contém um breve resumo com as mudanças mais importantes de terminologia ocasionadas pela revisão.\n<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-19",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/515cfe3d7-716x167.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5134ed7a6-264x170.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51232568a-420x248.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-265x111.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-u"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "slide3",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">&nbsp; &nbsp; Quem somos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Serviços &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consultoria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Auditoria</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br>Gerenciamento de projetos</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contato formulario</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Artigos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">A distãncia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"><br>Desenvolvimento<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Materiais Educativos<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Lern &nbsp;Seis Sigma &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Contato</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-305x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoria</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.2"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iso9001-icon-265x111.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w"
+        }
+      ]
+    }
+  }
+}
